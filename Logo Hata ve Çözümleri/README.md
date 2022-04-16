@@ -1,0 +1,1 @@
+#Bu klasörde Logo ürünlerinde sık karşılaşılan hataları ve çözümlerini bulabilirsiniz.
