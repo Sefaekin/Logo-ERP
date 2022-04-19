@@ -4,4 +4,4 @@
 <p>🌱 Mobil ve web uygulamaları için öğrenme sürecim henüz devam ediyor. </p>
 <p>💞️ Mobil veya web uygulaması geliştirebileceğim işbirlikleriyle ilgileniyorum. </p>
 <p>📫 sefa.ekin34@gmail.com mail adresimden benimle iletişime geçebilirsiniz.</p>
-**Not: Paylaşımdaki dosyalar kendi notlarımdır. Yedek almadan işlem yapmayınız.
+<p>**Not: Paylaşımdaki dosyalar kendi notlarımdır. Yedek almadan işlem yapmayınız.
